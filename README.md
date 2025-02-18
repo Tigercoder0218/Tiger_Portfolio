@@ -1,7 +1,7 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/530c2667-5dbc-4df3-824c-de37f975c833/deploy-status)](https://app.netlify.com/sites/chiragchrg/deploys)
+
 ##### Created : 09/04/2023
 
-# Kaito Daniel | My Personal Portfolio | Fullstack Web Developer
+# Kaito Daniel | My Personal Portfolio | BlockChain & Fullstack Web Developer
 Welcome to Kaito Daniel's portfolio website, your gateway to the dynamic world of full stack web development. Immerse yourself in the digital realm where my expertise in coding and design converges to create extraordinary online experiences.
 
 ### Preview
@@ -41,7 +41,7 @@ Welcome to Kaito Daniel's portfolio website, your gateway to the dynamic world o
 
 ### Live Demo
 
-Check out a live demo of ARMS at https://chiragchrg.netlify.app/.
+Check out a live demo of ARMS at https://tigercoder0218.web.app/.
 
 ### LightHouse Audit
 ![LightHouse Audit Preview](public/LightHouse_Audit.jpg)
