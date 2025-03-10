@@ -8,7 +8,7 @@ const Home = () => {
   useEffect(() => {
     AOS.init({ duration: 1000 });
     const typed = new Typed(typedRef.current, {
-      strings: ["Software Engineer", "Website Developer","Blockchain Developer"],
+      strings: ["Full Stack Developer", "Blockchain Developer"],
       typeSpeed: 25,
       backSpeed: 25,
       loop: true,
@@ -26,7 +26,7 @@ const Home = () => {
         className="hero-bg"
       />
       <div className="container" data-aos="fade-up" data-aos-delay="100">
-        <h2>James Zheng</h2>
+        <h2>Yurii Sherehi</h2>
         <p>
           I am a <span ref={typedRef} className="typed"></span>
         </p>

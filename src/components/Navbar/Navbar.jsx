@@ -66,7 +66,7 @@ const Navbar = () => {
       ></i>
       <div className="profile-img">
         <img
-          src="/image/James.jpg"
+          src="/image/Yurii.JPG"
           alt="Profile"
           className="img-fluid rounded-circle"
         />
@@ -76,36 +76,27 @@ const Navbar = () => {
         className="logo d-flex align-items-center justify-content-center"
         style={{ textDecoration: "none" }}
       >
-        <h1 className="sitename">James Zheng</h1>
+        <h1 className="sitename">Yurii Sherehi</h1>
       </Link>
       <div className="social-links text-center">
         <a
-          href="mailto:james.zheng.dev217@gmail.com"
+          href="mailto:yuriisherehi@gmail.com"
           className="icon gmail"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Email Samarjit"
+          aria-label="Email Yurii"
         >
           <i className="bi bi-envelope-fill"></i>
         </a>
         <a
-          href="https://github.com/jameszheng217"
+          href="https://github.com/tigercoder0218"
           className="icon github"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Visit James's GitHub profile"
+          aria-label="Visit yurii's GitHub profile"
         >
           <i className="bi bi-github"></i>
         </a>
-        {/* <a
-          href="https://www.linkedin.com/in/samarjitsahoo/"
-          className="icon linkedin"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Connect with Samarjit on LinkedIn"
-        >
-          <i className="bi bi-linkedin"></i>
-        </a> */}
       </div>
 
       <nav id="navmenu" className="navmenu">

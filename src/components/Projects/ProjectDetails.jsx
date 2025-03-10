@@ -43,120 +43,115 @@ const ProjectDetails = () => {
   );
   const imagesGroup1 = [
     {
-      src: "/image/Grow_1.PNG",
+      src: "/image/BridlHorse.png",
       alt: "Image 1",
     },
   ];
 
   const imagesGroup2 = [
     {
-      src: "/image/hover.PNG",
+      src: "/image/CareMagnus.png",
       alt: "Image 2",
     },
   ];
 
   const imagesGroup3 = [
     {
-      src: "/image/Quan2um.PNG",
+      src: "/image/CruiseBooking.jpg",
       alt: "Image 3",
     },
   ];
 
   const imagesGroup4 = [
     {
-      src: "/image/acceptmission1.PNG",
+      src: "/image/RoccaBox.png",
       alt: "Image 4"
     },
   ]
 
   const imagesGroup5 = [
     {
-      src: "/image/doxy.PNG",
+      src: "/image/Superior.png",
       alt: "Image 5"
     },
   ]
 
   const imagesGroup6 = [
     {
-      src: "/image/mobility.PNG",
+      src: "/image/TabirAcademy.png",
       alt: "Image 6"
     },
   ]
 
   const projectInfo = [
     {
-      name: "Growcurriculum",
+      name: "BridlHorse",
       category: "Website Project",
-      webUrl: "https://growcurriculum.org",
+      webUrl: "https://https://www.bridl.co",
     },
     {
-      name: "Logiware",
+      name: "CareMagnus",
       category: "Website Project",
-      webUrl: "https://hoverlasoft.com/products-we-have-built/streamlining-international-shipment-management",
+      webUrl: "https://www.caremagnus.com",
     },
     {
-      name: "Market Hero",
+      name: "Cruise Booking System",
       category: "Website Project",
-      webUrl: "https://markethero.io",
+      webUrl: "https://grababoat.com",
     },
     {
-      name: "Accept mission",
+      name: "RoccaBox- Real Estate Website & App",
       category: "Website Project",
-      webUrl: "https://acceptmission.com",
+      webUrl: "http://roccabox.com",
     },
     {
-      name: "Doxy|Healthcare",
+      name: "superior biologics",
       category: "Website Project",
-      webUrl: "https://doxy.me/en",
+      webUrl: "https://superiorbiologics.com",
     },
     {
       name: "Mobilityworkout",
       category: "Website Project",
-      webUrl: "https://www.mobilityworkout.com/",
+      webUrl: "https://tabiracademy.com",
     },
   ];
 
   const projectDescriptions = [
     {
-      title: "Grow Curriculum",
+      title: "Bridl- Horse Booking Website",
       description:
-        `This platform offers a variety of tools and materials aimed at enhancing ministry programs for preschool, elementary, middle, and high school students.
-Skills: HTML/CSS,JavaScript,React.js,Node.js,Express.js,
-         MongoDB,AWS`
+        `BRIDL offers a simple, safe, and transparent sales experience, streamlining the process of trading elite competition horses and creating new industry standards with its top-tier investment and valorization program.
+Skills: Angular, Node.js, MongoDB, MongoDB,AWS`
     },
     {
-      title: "Logiware",
+      title: "CareMagnus- Hospital And Nursing Home CRM",
       description:
-        `This platform is designed to streamline international shipment management by integrating various logistics operations into a single, cohesive system.
-Skills:NestJs,Node.js,Nuxt.js,TypeScript,Quasar,Storyblok,AmazonS3`,
+        `This gives unmatched flexibility to care service provides.Multi-channel care enables the providers to offer their clients with greater accessibility and flexibility, allowing them to receive care in a way that best suits their needs and preferences.
+Skills: React Native, MongoDB, ExpressJS, Node.js, React`,
     },
     {
-      title: "Market Hero",
+      title: "Cruise Booking System",
       description:
-        `Market Hero is an email marketing platform that integrates advanced sales tracking and automation features to enhance business communication and revenue generation.
-Skills: React.js, JavaScript, HTML5/CSS3, Node.js, Express.js, 
-         MongoDB`,
+        `This project involved the development of a comprehensive boat booking and management website from scratch.
+Skills: React.js, PHP, Laravel, Node.js, MySQL`,
     },
     {
-      title: "Accept mission",
+      title: "RoccaBox- Real Estate Website & App",
       description:
-        `This platform offers a comprehensive suite of tools to facilitate innovation campaigns, manage ideas through structured funnels, and execute projects efficiently.
-Skills: HTML5/CSS3,WordPress,PHP,JavaScript,MySQL,
-         jQuery`,
+        `RoccaBox is a real estate mobile appltion that makes the property searching process a lot smoother. It helps in finding the best property on your fingertips in all over the world.
+Skills: Laravel, Flutter, Swift, Kotlin, MySQL`,
     },
     {
-      title: "Doxy|Healthcare",
+      title: "Superior biologics",
       description:
-        `This platform is a telemedicine platform providing secure, user-friendly video calling solutions for healthcare providers to connect with patients virtually.
-Skills: React.js, Node.js, Express.js, MongoDB, Chatbot, 
-         Docker, JavaScript, Python`,
+        `At Superior Biologics, our pharmacies are dedicated to improving wellness through high-touch and high-tech personal services.
+Skills: React, Node.js, Next.js, ExpressJS, CSS`,
     },
     {
-      title: "Mobilityworkout",
+      title: "Tabir Academy",
       description:
-        `This fully responsive site features videos and products for mobility exercises.
-Skills: React, HTML5/CSS3, Redux, Wordpress, JavaScript, 
-         MySQL`,
+        `Tabir Academy provides extensive and to the point preparation of the test. The unique Learning Box feature helps in building the underlying concept in the question. You can save concepts in learning box to revise later.
+Skills: Django, Python, Database Architecture, PostgreSQL, Stripe`,
     },
   ];
 

@@ -1,0 +1,42 @@
+https://www.upwork.com/freelancers/~014e35c145af80c506?p=1838154366853275648
+
+Rocca Box is a real estate mobile application that
+makes the property searching process a lot smoother.
+It helps in finding the best property at your fingertips all over the world. It introduces diverse services and makes it super easy for users to avail the best property.
+Skills and deliverables
+
+Laravel
+Flutter
+Swift
+Kotlin
+MySQL
+
+
+RoccaBox is a real estate mobile appltion that makes the property searching process a lot smoother. It helps in finding the best property on your fingertips in all over the world. It introduces diverse services and makes it super easy for users to avail best property.
+
+It allows searching properties from the wide variety of listed products, assigning preferred agents and establishing a contact, showcasing and dealing in best and easily renting or purchasing the properties at flexible rates.
+
+An application is listed on various domains to make the property searching personalized
+Categorized on enormous fields such as for sale, new development, long-term rental and holiday rental.
+Search feature solve location issue by listing popular US locations.
+Can see other property types such as apartment, house, villa, plot, commercial, etc.
+
+RoccaBox serves utmost comfort to the users in searching properties from their doorsteps.
+Based on three interfaces to make the working more pleasant
+
+User interface for buyers to enquire about the property:
+Admin panel to create a link between the users and the agents for property selling.
+Agent interface for developing contact with users in order to showcase chosen properties.
+One-stop platform development for agents and users with an intent to deliver work
+opportunities
+
+Onboarding best properties:
+To develop an app for easy property listing, assigning agent, property briefing, site showcasing and making it comfortable for users to find their desired home.
+To customize property searching with least efforts and listing demands.
+
+The purpose behind commencement of this project is to create a mobile application which will enable users to find the properties in different locations, generate an enquiry via call or via submitting a form and get guidance related to properties. The system will also facilitate the user to apply for a mortgage loan.
+
+At the ending stage of this project we have worked on all the objectives of our project delivering value products to our client.
+
+
+http://roccabox.com/

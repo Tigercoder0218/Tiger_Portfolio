@@ -11,25 +11,25 @@ SwiperCore.use([Autoplay, Pagination]);
 const testimonialsData = [
   {
     quote:
-    "James\u2019s expertise and problem-solving skills were instrumental in our project\u2019s success. His dedication and ability to quickly adapt to new challenges made working with him a seamless experience. Highly recommended for anyone seeking a committed and skilled developer.",
-    image: "/image/Benjamin Thomas.jpg",
-    name: "Benjamin Thomas",
+    "Yurii\u2019s expertise and problem-solving skills were instrumental in our project\u2019s success. His dedication and ability to quickly adapt to new challenges made working with him a seamless experience. Highly recommended for anyone seeking a committed and skilled developer.",
+    image: "/image/Daniela.jpg",
+    name: "Daniela",
     position: "Frontend Developer",
-    country: "Canada",
+    country: "United States",
   },
   {
     quote:
-    "James\u2019s creativity and technical expertise significantly enhanced our project. His ability to tackle complex problems and deliver results on time was impressive. Working with him was a fantastic experience, and his contributions were invaluable.",
-    image: "/image/Jack Oliver.jpg",
-    name: "Jack Oliver",
+    "Yurii\u2019s creativity and technical expertise significantly enhanced our project. His ability to tackle complex problems and deliver results on time was impressive. Working with him was a fantastic experience, and his contributions were invaluable.",
+    image: "/image/kaito.jpg",
+    name: "kaito",
     position: "Full Stack Developer",
-    country: "Canada",
+    country: "Ukraine",
   },
   {
     quote:
-      "James consistently delivered high-quality work and demonstrated exceptional technical skills throughout our collaboration. His proactive approach and attention to detail greatly contributed to the project\u2019s success. A true professional who is a pleasure to work with.",
-    image: "/image/William Gabriel.jpg",
-    name: "William Gabriel",
+      "Yurii consistently delivered high-quality work and demonstrated exceptional technical skills throughout our collaboration. His proactive approach and attention to detail greatly contributed to the project\u2019s success. A true professional who is a pleasure to work with.",
+    image: "/image/Maria.jpg",
+    name: "Maria",
     position: "Website Developer",
     country: "Canada",
   },

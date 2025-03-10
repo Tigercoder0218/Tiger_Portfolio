@@ -40,21 +40,10 @@ const Contact = () => {
                 <div>
                   <h3>Telegram</h3>
                   <p className="justify">
-                    @gentlemancomm
+                    @yuriisherehhicom
                   </p>
                 </div>
               </div>
-              {/* <div
-                className="info-item d-flex"
-                data-aos="fade-up"
-                data-aos-delay="300"
-              >
-                <i className="bi bi-globe flex-shrink-0"></i>
-                <div>
-                  <h3>Website</h3>
-                  <p>https://samarjit.vercel.app</p>
-                </div>
-              </div> */}
               <div
                 className="info-item d-flex"
                 data-aos="fade-up"
@@ -63,7 +52,7 @@ const Contact = () => {
                 <i className="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h3>Email</h3>
-                  <p>james.zheng.dev217@gmail.com</p>
+                  <p>yuriisherehi@gmail.com</p>
                 </div>
               </div>
             </div>

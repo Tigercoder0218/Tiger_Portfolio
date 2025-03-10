@@ -1,0 +1,24 @@
+Thanks to this automated, effective, and user-friendly system, the CRM assists in personalized care delivery and expanding care services by
+primarily focusing on it instead of spending endless hours on care administration.
+
+Rooted in a resolute mission, CareMagnus dedicated to ushering in a paradigm shift within the healthcare sector through our revolutionary care management software platform.
+
+As a dynamic and forward-thinking entity, our impetus stems from an ardent commitment to empower care providers and enhance patient outcomes.
+
+Skills and deliverables
+
+React Native
+MongoDB
+ExpressJS
+Node.js
+React
+
+All-In-One Comprehensive Platform meeting all your care management needs
+Personalized Care Plans Resource Scheduling Task Management Sales Planning Medication Management and much more...
+
+Automated, efficient and yet simple-to-use, empowering you to focus more on personalized care delivery and growing your care service, rather than spending countless hours on care administration.
+
+CareMagnus is highy modular, scalable and has been designed keeping in view the needs of care delivery through various channels. The service can be provisioned in Care Facilites (nursing homes, residential care homes, retirement homes and assisted-living) as well as for At-Home Care.
+This gives unmatched flexibility to care service provides.Multi-channel care enables the providers to offer their clients with greater accessibility and flexibility, allowing them to receive care in a way that best suits their needs and preferences.
+
+https://www.caremagnus.com/

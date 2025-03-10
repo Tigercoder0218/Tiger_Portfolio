@@ -14,10 +14,10 @@ const About = () => (
       </p>
     </div>
     <div className="container" data-aos="fade-up" data-aos-delay="100">
-      <div className="row gy-4 justify-content-center">
-        <div className="col-lg-4 text-center">
+      <div className="row justify-content-center">
+        {/* <div className="col-lg-4 text-center">
           <img
-            src="/image/James.jpg"
+            src="/image/Yurii.JPG"
             className="img-fluid"
             style={{
               maxWidth: "80%",
@@ -28,7 +28,7 @@ const About = () => (
             }}
             alt="Profile"
           />
-        </div>
+        </div> */}
         <div className="col-lg-8 content">
           <h2>Software Engineer & Blockchain Developer</h2>
           <p className="py-3 justify">
@@ -38,10 +38,9 @@ const About = () => (
           </p>
           <div className="row">
             {[
-              { label: "Degree", value: "Bachelor of Software Engineering" },
-              { label: "Email", value: "james.zheng.dev217@gmail.com" },
-              // { label: "Website", value: "https://jameszhengportfolio.netlify.app" },
-              { label: "Address", value: "Montreal, Canada" },
+              { label: "Degree", value: "Bachelor of Computer Science" },
+              { label: "Email", value: "yuriisherehhi@gmail.com" },
+              { label: "Address", value: "Mukachevo, Ukraine" },
             ].map((item, index) => (
               <div className="col-lg-6" key={index}>
                 <ul>

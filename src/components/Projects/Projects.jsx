@@ -67,15 +67,15 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
               <div className="portfolio-content h-100">
                 <img
-                  src="/image/Grow_1.PNG"
+                  src="/image/BridlHorse.png"
                   className="img-fluid"
                   alt="Project 1"
                 />
                 <div className="portfolio-info">
                   <h4>Project 1</h4>
-                  <p>GrowCurriculum</p>
+                  <p>BridlHorse</p>
                   <a
-                    href="/image/Grow_1.PNG"
+                    href="/image/BridlHorse.png"
                     title="Project 1"
                     data-gallery="portfolio-gallery-app"
                     className="glightbox preview-link"
@@ -83,7 +83,7 @@ const Portfolio = () => {
                     <i className="bi bi-zoom-in"></i>
                   </a>
                   <a
-                    href="/image/Grow_1.PNG"
+                    href="/image/BridlHorse.png"
                     title="Project 1"
                     data-gallery="portfolio-gallery-app"
                     className="glightbox preview-link"
@@ -103,15 +103,15 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
               <div className="portfolio-content h-100">
                 <img
-                  src="/image/hover.PNG"
+                  src="/image/CareMagnus.png"
                   className="img-fluid"
                   alt="Project 2"
                 />
                 <div className="portfolio-info">
                   <h4>Project 2</h4>
-                  <p>Logiware</p>
+                  <p>CareMagnus- Hospital And Nursing Home CRM</p>
                   <a
-                    href="/image/hover.PNG"
+                    href="/image/CareMagnus.jpg"
                     title="Project 2"
                     data-gallery="portfolio-gallery-app"
                     className="glightbox preview-link"
@@ -131,15 +131,15 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
               <div className="portfolio-content h-100">
                 <img
-                  src="/image/Quan2um.PNG"
+                  src="/image/CruiseBooking.jpg"
                   className="img-fluid"
-                  alt="Quan2um"
+                  alt="CruiseBooking"
                 />
                 <div className="portfolio-info">
                   <h4>Project 3</h4>
-                  <p>Market Hero</p>
+                  <p>Cruise Booking System</p>
                   <a
-                    href="/image/Quan2um.PNG"
+                    href="/image/CruiseBooking.jpg"
                     title="Project 3"
                     data-gallery="portfolio-gallery-app"
                     className="glightbox preview-link"
@@ -159,15 +159,15 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
               <div className="portfolio-content h-100">
                 <img
-                  src="/image/acceptmission1.PNG"
+                  src="/image/RoccaBox.png"
                   className="img-fluid"
                   alt="Project 4"
                 />
                 <div className="portfolio-info">
                   <h4>Project 4</h4>
-                  <p>Acceptmission</p>
+                  <p>RoccaBox- Real Estate Website & App</p>
                   <a
-                    href="/image/acceptmission1.PNG"
+                    href="/image/RoccaBox.png"
                     title="Project 4"
                     data-gallery="portfolio-gallery-app"
                     className="glightbox preview-link"
@@ -187,15 +187,15 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
               <div className="portfolio-content h-100">
                 <img
-                  src="/image/doxy.PNG"
+                  src="/image/Superior.png"
                   className="img-fluid"
                   alt="Project 5"
                 />
                 <div className="portfolio-info">
                   <h4>Project 5</h4>
-                  <p>Doxy|Healthcare</p>
+                  <p>Superior Biologics</p>
                   <a
-                    href="/image/doxy.PNG"
+                    href="/image/Superior.png"
                     title="Project 5"
                     data-gallery="portfolio-gallery-app"
                     className="glightbox preview-link"
@@ -215,15 +215,15 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
               <div className="portfolio-content h-100">
                 <img
-                  src="/image/mobility.PNG"
+                  src="/image/TabirAcademy.png"
                   className="img-fluid"
                   alt="Project 6"
                 />
                 <div className="portfolio-info">
                   <h4>Project 6</h4>
-                  <p>Mobilityworkout</p>
+                  <p>Tabir Academy</p>
                   <a
-                    href="/image/mobility.PNG"
+                    href="/image/TabirAcademy.png"
                     title="Project 6"
                     data-gallery="portfolio-gallery-app"
                     className="glightbox preview-link"

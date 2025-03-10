@@ -3,52 +3,68 @@ import "./Resume.scss";
 
 const Resume = () => {
   const contactInfo = [
-    "james.zheng.dev217@gmail.com",
-    "https://jameszhengportfolio.netlify.app",
-    "github.com/jameszheng217",
+    "yurrisherehi@gmail.com",
+    "https://tigercoder0315.netlify.app",
+    "github.com/tigercoder0218",
   ];
   const education = [
     {
-      title: "Bachelor of Software Engineering",
-      duration: "2015 - 2019",
-      institution: "ALGOMA University",
+      title: "Bachelor's Degree in Computer Science",
+      duration: "2010 - 2014",
+      institution: "Dnipropetrovs'kij Nacional'nij Universitet",
       description:
         "During my development, I immersed myself in hands-on projects involving modern programming languages, software development tools, and system design. This practical experience helped me build a solid technical foundation and prepared me for real-world challenges in the IT field.",
     },
   ];
   const internships = [
     {
-      company: "Self-Employed",
-      duration: "Oct 2024 - present",
-      location: "Montreal, Canada",
+      company: "ITBrains, Kharkiv",
+      duration: "May 2022 - Present",
+      // location: "Montreal, Canada",
       responsibilities: [
-        "Spearheaded the development of a feature-rich analytics platform, integrating HTML5, CSS3, and React, boosting customer insights by 35 %.",
-        "I have focused on developing scalable web applications using modern JavaScript frameworks, achieving a 30 % improvement in system performance."
+        "Spearheaded the redesign of a cross-platform analytics tool that improved data processing speeds by 40%, utilizing Redux for the frontend and Node for the backend.",
+        "Utilized Jira for managing and tracking progress which improved the team's efficiency by 15%.",
+        "Incorporated cloud-based solutions with Azure services, resulting in a scalable infrastructure that supported a twofold increase in user traffic during peak transaction periods.",
+        "Spearheaded the adoption of containerization using Docker and Kubernetes, reducing deployment time by 40% and improving scalability.",
+        "Designed and implemented database schema using SQLAlchemy, ensuring data consistency and scalability across multiple micro-services.",
+        "Mentored junior developers through pair programming and code review, boosting team performance and knowledge sharing.",
+        "Created Blockchain Technology and Smart Contracts Programming Courseware.",
+        "Instructed and motivated underprivileged communities students, mentoring new teachers and help opening professional paths in Kharkiv, Ukraine.",
       ],
     },
     {
-      company: "247 Labs Inc",
-      duration: "May 2022 - Sep 2024",
-      location: "Toronto, Canada",
+      company: "Codeminders, Kyiv ",
+      duration: "March 2020 - April 2022",
+      // location: "Toronto, Canada",
       responsibilities: [
-        "Led multiple projects from concept to completion, ensuring timely delivery and alignment with client goals.",
-        "Enhanced a MongoDB, Express.js, React, and Node.js (MERN)-based ecommerce system, optimizing the checkout process by 20%, resulting in a 15% higher conversion rate and contributing to over $2 million in annual revenue.",
-        "Optimized web applications with Tailwind CSS, achieving full mobile responsiveness and improving user satisfaction scores by 35 %.",
-        "Developed a scalable data storage system using React, Node.js, and Express.js, optimizing retrieval times by 50 % and improving efficiency for 500,000+ active users.",
-        "Implemented both MongoDB and PostgreSQL to enhance data management efficiency, leading to a 25 % improvement in data retrieval times.",
+        "Developed an advanced user interface using React Native, enhancing user experience and boosting website traffic by 20%.",
+        "Developed an advanced user interface using React Native, enhancing user experience and boosting website traffic by 20%.",
+        "Designed a scalable cloud-based solution on AWS, reducing infrastructure costs by 25% while increasing performance.",
+        "Fixed critical bugs and optimized MySQL queries, improving overall database performance by 15%."
       ],
     },
     {
-      company: "Many Hats",
-      duration: "August 2018 - April 2022",
-      location: "Burnaby, Canada",
+      company: "Daxx, Kharkiv",
+      duration: "September 2018 - March 2020",
+      // location: "Burnaby, Canada",
       responsibilities: [
-        "Developed and deployed 5+ scalable web applications with React, Node.js, and MongoDB, improving system efficiency and supporting 100,000 + users.",
-        "Contributed to the development of a customer support chatbot utilizing AI technologies, enhancing response times by 40 %.",
-        "Designed and implemented 15+ RESTful APIs with Node.js and PostgreSQL, reducing data retrieval time by 30 % and improving backend performance.",
-        "Reduced website load times by 40%, leading to a 25% increase in user retention, through lazy loading, code splitting, and image optimization.",
-        "Designed and maintained a blockchain-based real estate platform usingNext.js and TypeScript, increasing site speed by 40 % and boosting user engagement.",
-        "Developed blockchain-based authentication solutions, improving security and decentralization, reducing unauthorized access by 60 %.",
+        "Designed and implemented modular Angular and React components to increase code reuse by 20%.",
+        "Streamlined frontend-to-backend communication bringing uniformity and consistency to web application data, resulting in a 20% decrease in discrepancies.",
+        "Enforced rate-limiting mechanisms as part of infrastructure management to ensure fair usage and maintain system performance.",
+        "Pioneered the adoption of test-driven development (TDD) practices using Jest and Mocha, enhancing code quality and reducing the number of regression bugs by 35%.",
+        "Engaged in integrating AI-driven analytics into cloud services, enhancing customer predictive capabilities by 20%."
+      ],
+    },
+    {
+      company: "SoftServe, Dnipro",
+      duration: "April 2015 - September 2018",
+      // location: "Burnaby, Canada",
+      responsibilities: [
+        "Developed over 25 highly responsive and user-friendly web interfaces using Laravel and jQuery.", 
+        "Contributed in regular code reviews and executed best practices for GitFlow, increasing collaboration efficiency within the development team by 15%.",
+        "Contributed to the development of client-side logic for various applications, ensuring smooth operation across different browsers.",
+        "Collaborated with UX/UI designers to enhance user experience, increasing user engagement by 20%.",
+        "Actively took part in sprint planning, stand-ups, and retrospectives to align with project goals.",
       ],
     },
   ];
@@ -58,10 +74,10 @@ const Resume = () => {
       <div className="container section-title" data-aos="fade-up">
         <h2>Resume</h2>
         <a
-          href="/JamesZheng_CV.pdf"
+          href="/Yurii_Sherehi.pdf"
           className="icon resume"
           target="_blank"
-          download="James Zheng"
+          download="Yurii Sherehi"
           aria-label="Download Resume"
         >
           <i className="bi bi-download"></i>
@@ -82,16 +98,12 @@ const Resume = () => {
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 className="resume-title">Summary</h3>
             <div className="resume-item pb-0">
-              <h4>James Zheng</h4>
+              <h4>Yurri Sherehi</h4>
               <p className="justify">
-                I am a Senior Full-stack developer with 7 years of rich experience in
-                building scalable and high-performance web applications. Skilled in React,
-                Next.js, Svelte,Vue.js, Angular, Node.js, and GraphQL. Strong expertise in
-                data integration and optimized database management, maximizing data
-                processing speed with MongoDB, MySQL, and PostgreSQL. Proficient in
-                Python, AWS and best practices such as TDD and Agile(SCRUM).
-                I am adept at building secure, scalable, and innovative blockchain
-                applications across diverse ecosystems.
+              Expertise in modern frameworks, cloud platforms, and scalable architectures, with a proven track record of driving operational efficiency,
+              reducing infrastructure costs, and delivering innovative solutions.
+              Strong leadership skills in mentoring teams, optimizing workflows, and fostering collaboration.
+              Passionate about building secure, user-friendly systems that empower businesses to achieve their strategic objectives.
               </p>
               <ul>
                 {contactInfo.map((contact, index) => (
@@ -117,9 +129,9 @@ const Resume = () => {
               <div className="resume-item" key={index}>
                 <h4>{internship.company}</h4>
                 <h5>{internship.duration}</h5>
-                <p>
+                {/* <p>
                   <em>{internship.location}</em>
-                </p>
+                </p> */}
                 <ul>
                   {internship.responsibilities.map((responsibility, idx) => (
                     <li key={idx} className="justify">
